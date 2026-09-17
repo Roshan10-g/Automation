@@ -1,0 +1,35 @@
+# Environment variables & secrets
+.env
+*.env
+*.pem
+*.key
+
+# Session & attendance state files
+state.json
+state.json.bak
+attendance_state.json
+test_state.json
+temp_*
+
+# Playwright & browser data
+browser_profile/
+screenshots/
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Logs & Archives
+*.log
+console_log.txt
+*.tar.gz
+*.zip
+
+# Operating System
+.DS_Store
+Thumbs.db
