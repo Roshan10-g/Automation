@@ -31,8 +31,8 @@ Before running the bot, ensure you have:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Roshan10-g/keka-attendance-bot.git
-cd keka-attendance-bot
+git clone https://github.com/Roshan10-g/Automation.git
+cd Automation
 ```
 
 ### Step 2: Install Dependencies
